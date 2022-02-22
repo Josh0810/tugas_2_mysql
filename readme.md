@@ -30,7 +30,9 @@ Jawaban:
 3. Apakah pengertian dari Primary Key dan Candidate Key?
 
 Jawaban:
+
     - primary key adalah kolom yang akan menjadi identitas dari setiap baris tabel.
+    
     - Candidate key adalah satu atau beberapa kolom di dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut,
       kolom yang dikategorikan sebagai candidate key tidak boleh ada data yang sama dan kosong.
 
