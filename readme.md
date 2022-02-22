@@ -15,6 +15,7 @@ Jawaban:
     c. Sebutkan 5 buah field yang terdapat pada tabel Mahasiswa!
 
 Jawaban:
+    
     - a.        NPM,        Nama,           Jenis Kelamin,  Jurusan,     IPK
 
     - b. b1. 57119789, Andi Gunawan,        Laki - Laki,   Akuntansi,    3.29
